@@ -1,0 +1,4 @@
+Movimiento: ← →
+Salto: ↑
+Disparos: Tecla S
+Reset de nivel: Tecla R
